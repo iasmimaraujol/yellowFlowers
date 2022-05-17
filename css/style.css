@@ -1,0 +1,13 @@
+.container{
+    border: solid yellow 2px;
+    margin-top: 20px;
+}
+body{
+    background-image: url("https://www.vortexmag.net/wp-content/uploads/2020/04/anemone-2396299_1280.jpg");
+}
+.picture{
+    width: 150px;
+}
+.myTable{
+    margin-top: 10px;
+}

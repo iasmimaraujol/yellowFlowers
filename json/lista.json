@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "picture": "https://s2.glbimg.com/fEGESP9MWt53d4dxlrZewiQXceg=/620x480/smart/e.glbimg.com/og/ed/f/original/2019/11/27/decoracao-com-girassol-curiosidades-sobre-o-girassol.jpg",
+        "name": "Girassol",
+        "description": "O girassol (Helianthus annuus) é uma planta anual da família das Asteraceae, gênero Heliantheae. Está situado na tribo Heliantheae, subtribo Helianthinae.[1][2] É cultivada pelo seu óleo e frutos comestíveis. O nome é derivado do formato de sua inflorescência. "
+    },
+
+    {
+        "id": 2,
+        "picture": "https://www.significados.com.br/foto/flore-dente-de-leao.jpg",
+        "name": "Dente de Leão",
+        "description": "Taraxacum officinale, (dente-de-leão), é uma planta perene herbácea da família Asteraceae (Compositae). Pode ser encontrada em regiões temperadas e cresce em relvados, nas margens das estradas e de cursos de água e em outras áreas com solos úmidos. É frequentemente considerada uma erva daninha, especialmente em relvados, mas é usada como planta medicinal e na culinária "
+    },
+
+    {
+        "id": 3,
+        "picture": "https://www.gardeningknowhow.com/wp-content/uploads/2020/11/orange-french-marigolds.jpg",
+        "name": "MariGold",
+        "description": "Tagetes é um gênero de 56 espécies de plantas principalmente herbáceas anuais e perenes da família do girassol (Asteraceae or Compositae). É popularmente conhecida em Portugal como cravo-de-tunes, cravo-túnico, cravo-de-burro (não confundir com a Matthiola maderensis, ou com a Cirsium welwitschii, que também dão pelo nome de «cravo-de-burro»), no Brasil como flor-dos-mortos e ainda como cravo-amarelo, cravo-africano, cravo-da-índia e rosa-da-índia. Há regiões, tanto no Brasil, como em Portugal, em que dá pelo nome de cravo-de-defunto. O gênero é nativo da América do Norte e Sul, mas algumas espécies se naturalizaram ao redor do mundo. Suas flores são alaranjadas, amarelas ou vermelhas, a maioria com odor muito forte."
+    }    
+]
